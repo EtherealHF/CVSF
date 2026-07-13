@@ -1,0 +1,16 @@
+[NAFNet] inference finished. split=RELLISUR_X2, images=425, batch_size=1, protocol=fine-tuned_or_official_setting, output=baseline_outputs/nafnet_x2
+[HAT] inference finished. split=RELLISUR_X2, images=425, batch_size=1, protocol=fine-tuned_or_official_setting, output=baseline_outputs/hat_x2
+[DAT] inference finished. split=RELLISUR_X2, images=425, batch_size=1, protocol=fine-tuned_or_official_setting, output=baseline_outputs/dat_x2
+[CATANet] inference finished. split=RELLISUR_X2, images=425, batch_size=1, protocol=fine-tuned_or_official_setting, output=baseline_outputs/catanet_x2
+[BSRGAN] inference finished. split=RELLISUR_X2, images=425, batch_size=1, protocol=official_checkpoint_or_official_setting, output=baseline_outputs/bsrgan_x2
+[CALGAN] inference finished. split=RELLISUR_X2, images=425, batch_size=1, protocol=official_checkpoint_or_official_setting, output=baseline_outputs/calgan_x2
+[SeeSR] inference finished. split=RELLISUR_X2, images=425, batch_size=1, protocol=official_checkpoint_or_official_setting, output=baseline_outputs/seesr_x2
+[UPSR] inference finished. split=RELLISUR_X2, images=425, batch_size=1, protocol=official_checkpoint_or_official_setting, output=baseline_outputs/upsr_x2
+[OSEDiff] inference finished. split=RELLISUR_X2, images=425, batch_size=1, protocol=official_checkpoint_or_official_setting, output=baseline_outputs/osediff_x2
+[PromptIR] inference finished. split=RELLISUR_X2, images=425, batch_size=1, protocol=fine-tuned_setting, output=baseline_outputs/promptir_x2
+[DATPRL-IR] inference finished. split=RELLISUR_X2, images=425, batch_size=1, protocol=fine-tuned_setting, output=baseline_outputs/datprl_ir_x2
+[InstructIR] inference finished. split=RELLISUR_X2, images=425, batch_size=1, protocol=fine-tuned_setting, output=baseline_outputs/instructir_x2
+[4KAgent] inference finished. split=RELLISUR_X2, images=425, batch_size=1, workflow=brighten->denoise->super-resolution, output=baseline_outputs/4kagent_x2
+[4KAgent_Brightening] inference finished. split=RELLISUR_X2, images=425, batch_size=1, workflow=brightening_only, output=baseline_outputs/4kagent_brightening_x2
+[AgenticIR] inference finished. split=RELLISUR_X2, images=425, batch_size=1, protocol=zero_shot_agentic_pipeline, output=baseline_outputs/agenticir_x2
+[CVSF-IF] inference finished. split=RELLISUR_X2, images=425, batch_size=1, tile_size=512, tile_overlap=64, sampling_steps=1, output=outputs/x2_test/pred

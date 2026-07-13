@@ -1,0 +1,5 @@
+samples/RELLISUR-Dataset/Test/NLHR/X2/00018.png samples/RELLISUR-Dataset/Test/LLLR/00018-3.0.png
+samples/RELLISUR-Dataset/Test/NLHR/X2/00026.png samples/RELLISUR-Dataset/Test/LLLR/00026-3.5.png
+samples/RELLISUR-Dataset/Test/NLHR/X2/00075.png samples/RELLISUR-Dataset/Test/LLLR/00075-4.0.png
+samples/RELLISUR-Dataset/Test/NLHR/X2/00096.png samples/RELLISUR-Dataset/Test/LLLR/00096-4.5.png
+samples/RELLISUR-Dataset/Test/NLHR/X2/00736.png samples/RELLISUR-Dataset/Test/LLLR/00736-5.0.png

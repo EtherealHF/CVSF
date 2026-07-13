@@ -1,0 +1,21 @@
+datasets:
+  sub_3000: False 
+  train:
+    eeg_path: /path/to/THINGS-EEG2/preprocessed_eeg_data/ 
+    image_path: /path/to/THINGS-EEG2/image_filtering_dataset/training_images
+    image_tensor_path: /path/to/THINGS-EEG2/features/
+    n_cls: 300 
+    # n_cls: 1654
+    repeat_times: 4 
+    samples_per_class: 10
+    n_channels: 63
+    frequence: 250
+  test:
+    eeg_path: /path/to/THINGS-EEG2/preprocessed_eeg_data/
+    image_path: /path/to/THINGS-EEG2/image_filtering_dataset/test_images
+    image_tensor_path: /path/to/THINGS-EEG2/features
+    n_cls: 200 
+    repeat_times: 80 # 取mean 
+    samples_per_class: 1
+    n_channels: 63 
+    frequence: 250

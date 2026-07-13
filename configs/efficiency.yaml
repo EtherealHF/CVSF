@@ -1,0 +1,10 @@
+hardware: A40
+batch_size: 1
+task: RELLISUR_X2
+tile_size: 512
+tile_overlap: 64
+metrics:
+  runtime: milliseconds_per_image
+  memory: torch_cuda_peak_allocated_GB
+  parameters: total_and_trainable_M
+notes: Use the same input resolution, batch size, and hardware for all compared methods.
